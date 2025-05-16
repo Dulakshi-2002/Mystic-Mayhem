@@ -1,0 +1,173 @@
+
+War begins !!!
+-------------------------
+   ___   
+  [ _ ] 
+   | |  
+   | |  
+   | |  
+ {=====}     
+  |   |      
+  | | |       
+  | | |       
+  | | |       
+  | | |       
+  | | |       
+  | | |       
+  |   |        
+   \ /        
+    '        
+============================================
+#---Turn1---#
+-----------------
+	Ghost
+-----------------
+Warlock attackes Ranger
+Ranger's health 3.6
+Warlock's health 10
+
+-----------------
+GeraltofRivia
+-----------------
+Warlock attackes Shooter
+Shooter's health 0.4
+Warlock's health 10
+============================================
+#---Turn2---#
+-----------------
+	Ghost
+-----------------
+Warlock attackes Ranger
+Ranger's health 0
+Rangeris Dead !Warlock's health 10
+
+-----------------
+GeraltofRivia
+-----------------
+Warlock attackes Shooter
+Shooter's health 0
+Shooteris Dead !Warlock's health 10
+============================================
+#---Turn3---#
+-----------------
+	Ghost
+-----------------
+Warlock attackes Medic
+Medic's health 6.8
+Warlock's health 10
+
+-----------------
+GeraltofRivia
+-----------------
+Warlock attackes Soother
+Soother's health 3.8
+Warlock's health 10
+============================================
+#---Turn4---#
+-----------------
+	Ghost
+-----------------
+Warlock attackes Medic
+Medic's health 1.6
+Warlock's health 10
+
+-----------------
+GeraltofRivia
+-----------------
+Warlock attackes Soother
+Soother's health 0
+Sootheris Dead !Warlock's health 10
+============================================
+#---Turn5---#
+-----------------
+	Ghost
+-----------------
+Warlock attackes Medic
+Medic's health 0
+Medicis Dead !Warlock's health 10
+
+-----------------
+GeraltofRivia
+-----------------
+Warlock attackes Warlock
+Warlock's health 4.9
+Warlock's health 10
+============================================
+#---Turn6---#
+-----------------
+	Ghost
+-----------------
+Warlock attackes Warlock
+Warlock's health 4.9
+Warlock's health 4.9
+
+-----------------
+GeraltofRivia
+-----------------
+Warlock attackes Warlock
+Warlock's health 0
+Warlockis Dead !Warlock's health 4.9
+============================================
+#---Turn7---#
+-----------------
+	Ghost
+-----------------
+Dragon attackes Warlock
+Warlock's health 0.3
+Dragon's health 15
+
+-----------------
+GeraltofRivia
+-----------------
+Warlock attackes Squire
+Squire's health 2.1
+Warlock's health 0.3
+============================================
+#---Turn8---#
+-----------------
+	Ghost
+-----------------
+Dragon attackes Warlock
+Warlock's health 0
+Warlockis Dead !Dragon's health 15
+
+-----------------
+GeraltofRivia
+-----------------
+============================================
+#---Turn9---#
+-----------------
+	Ghost
+-----------------
+Dragon attackes Squire
+Squire's health 2.6
+Dragon's health 15
+
+-----------------
+GeraltofRivia
+-----------------
+Dragon attackes Squire
+Squire's health 0
+Squireis Dead !Dragon's health 15
+============================================
+#---Turn10---#
+-----------------
+	Ghost
+-----------------
+Dragon attackes Squire
+Squire's health 0
+Squireis Dead !Dragon's health 15
+
+-----------------
+GeraltofRivia
+-----------------
+Dragon attackes Dragon
+Dragon's health 10.9
+Dragon's health 15
+Ghost and GeraltofRivia draw !
+
+GeraltofRivia's gold coins 215
+GeraltofRivia's XP 32
+Ghost's gold coins 20
+Ghost's XP 0
+Game over!!

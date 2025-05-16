@@ -1,0 +1,38 @@
+public interface Player_Interface {
+    public void setGoldCoins(int value);
+    public int getGold();
+    public int getxp();
+    public Character[] getArmy();
+    public void setxp(int value);
+    public void setName( String name);
+    public String getName();
+    public void setUserName( String UserName);
+    public void setUserId(long count2) ;
+    public String  getuserName();
+    public void show_UderID();
+    public void show_goldCoins();
+    public void show_XP();
+    public int findPrice(int num);
+    public void sellArmy(String soldier);
+    public boolean IsEnoughCoins(int num);
+    public void BuyArmy(int armer);
+    public boolean AllNull(Character[] Array);
+    public void selling();
+    public void Checkarray(Character[] array);
+    public void show_shopArcher();
+    public void show_shopKnights();
+    public void show_shopMages();
+    public void show_shopHealers();
+    public void show_shopMythical_Creatures();
+    public void BuyArcher(String name);
+    public void BuyKnight(String name);
+    public void BuyMages(String name);
+    public void BuyHealer(String name);
+    public void BuyMythicalCreature(String name);
+    public void BuyArmour(int Armour,String chara);
+    public void BuyArtefacts(int Artefacts,String chara);
+    public void show_Armour();
+    public void show_Artefact();
+    public int update_goldCoins(int win,int coins);
+    public int update_XP(int win);
+}
